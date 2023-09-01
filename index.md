@@ -2,3 +2,7 @@
 ## Hi
 ###### Hello 
 Hej
+![Image of cat](https://upload.wikimedia.org/wikipedia/commons/9/9b/Gustav_chocolate.jpg)
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
